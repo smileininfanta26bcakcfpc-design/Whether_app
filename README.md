@@ -1,6 +1,6 @@
 # Whether_app
 Design link : https://www.figma.com/design/vrE8FHreP0cLSyWAxKcKTZ/Wheather_App?node-id=0-1&p=f&t=nWEXUM2Lj1WTqESt-0
-Proto Type Link : https://www.figma.com/design/vrE8FHreP0cLSyWAxKcKTZ/Wheather_App?node-id=0-1&p=f&t=nWEXUM2Lj1WTqESt-0
+Proto Type Link : https://www.figma.com/proto/vrE8FHreP0cLSyWAxKcKTZ/Wheather_App?node-id=0-1&t=4o3wrObfFQqnowRh-1
 Drizzle – Weather App
 A simple and visually engaging weather application UI/UX design that provides users with current weather conditions, hourly forecasts, and a 7-day weather forecast.
 The design focuses on making weather information easy to understand, visually attractive, and quick to access.
